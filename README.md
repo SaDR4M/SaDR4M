@@ -1,6 +1,6 @@
 # Hi, I’m Sadra 👋
 
-I'm a **backend-focused developer** specializing in **Python** and **Django** since 2023. I enjoy building scalable and efficient backend systems and am always excited to collaborate on interesting Python projects. Currently, I'm diving into **Go** to broaden and level up my engineering toolkit.
+Backend-focused developer working with Python and Django since 2023. Always open to exciting Python projects. Currently exploring Go to level up my engineering stack.
 
 ---
 
