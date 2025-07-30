@@ -15,12 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧠 Tech I Work With
+## 💻 Tech Stack
 
-- 🐍 Python • Django • Celery
-- 🐘 PostgreSQL • Redis
-- 🐧 Linux (Debian/Ubuntu)
-- 🧵 Go (Learning)
+**Languages**  
+🟡 Python  
+🔵 Go (Learning)
+
+**Frameworks & Libraries**  
+🟢 Django  
+🟢 Celery
+
+**Databases & Caching**  
+🐘 PostgreSQL  
+🟥 Redis
+
+**Operating Systems**  
+🐧 Linux (Ubuntu/Debian)
 
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
