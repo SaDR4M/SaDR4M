@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Languages and Tools:
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
+...
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+
+![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
