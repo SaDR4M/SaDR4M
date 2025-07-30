@@ -43,8 +43,9 @@ Backend-focused developer working with Python and Django since 2023. Always open
 ### Connect with me:
 
 <p align="left">
-<a https://x.com/your-x-username" target="blank">https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="your-x-username" height="30" width="40" /></a>
+<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="your-twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-id" height="30" width="40" /></a>
+<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
 <a href="https://medium.com/your-medium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="your-medium" height="30" width="40" /></a>
 </p>
