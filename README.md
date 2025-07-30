@@ -28,7 +28,8 @@ Backend-focused developer working with Python and Django since 2023. Always open
 
 ## 📈 GitHub Stats
 
-![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaDR4M&show_icons=true&theme=radical)
+[![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaDR4M&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=SaDR4M&show_icons=true&theme=radical&include_all_commits=true
+)
 
 ---
 
