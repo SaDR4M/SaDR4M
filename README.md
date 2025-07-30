@@ -4,12 +4,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&duration=1500&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+SaDR4M+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Feel+free+to+look+around!" alt="Typing SVG" />
   </a>
 </p>
----
+
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://medium.com/@your-medium"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
 </p>
+
 ---
 
 Backend-focused developer working with **Python** and **Django** since 2023. Always open to exciting Python projects.  
