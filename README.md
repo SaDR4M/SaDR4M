@@ -22,7 +22,7 @@ Currently exploring **Go** to level up my engineering stack.
 
 <p align="center">
   <a href="https://github.com/SaDR4M">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaDR4M&layout=compact&theme=dracula" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaDR4M&layout=compact&theme=dracula&size_weight=0&count_weight=1" alt="Top Languages" />
   </a>
 </p>
 
