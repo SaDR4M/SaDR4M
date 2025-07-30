@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
-...
+
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
@@ -25,6 +22,10 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,redis,linux,postgres,go" />
+</p>
 
 
 ![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaDR4M&show_icons=true&theme=radical)
