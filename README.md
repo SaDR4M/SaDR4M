@@ -1,45 +1,81 @@
-# Hi, I’m Sadra 👋
+# Hi there, I'm [Your Name]! 👋
 
-Backend-focused developer working with Python and Django since 2023. Always open to exciting Python projects. Currently exploring Go to level up my engineering stack.
+<a href="https://github.com/SaDR4M">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaDR4M&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="SaDR4M's GitHub Stats" />
+</a>
+<a href="https://github.com/SaDR4M">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaDR4M&layout=compact&theme=dracula" alt="SaDR4M's Top Languages" />
+</a>
 
----
-
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" alt="NGINX" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" alt="Pytest" />
+<p align="center">
+  <a href="https://github.com/SaDR4M">
+    <img src="https://komarev.com/ghpvc/?username=SaDR4M&label=Profile%20views&color=blueviolet&style=flat" alt="SaDR4M's Profile Views" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Currently Learning
+### 👨‍💻 About Me
+
+I'm a passionate developer with a love for creating innovative solutions. I enjoy working on projects that challenge me and help me grow my skills.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+---
+
+### 🛠️ My Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,go" alt="Docker and Go" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,aws,gcp" />
+  </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+### 🏆 GitHub Trophies
 
-![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaDR4M&show_icons=true&theme=radical&include_all_commits=true)
-
-
----
-
-## 📫 Get in Touch
-
-Feel free to reach out if you'd like to collaborate or just say hi!
-
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SaDR4M&theme=dracula&column=7" alt="SaDR4M's GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
-*Thanks for visiting my profile!* ✨
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/SaDR4M">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaDR4M&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="SaDR4M's Contribution Graph" />
+  </a>
+</p>
+
+---
+
+### 🐍 My Contribution Snake
+
+<p align="center">
+  <a href="https://github.com/SaDR4M">
+    <img src="https://raw.githubusercontent.com/SaDR4M/SaDR4M/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </a>
+</p>
+
+---
+
+### Connect with me:
+
+<p align="left">
+<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/your-stackoverflow-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-id" height="30" width="40" /></a>
+<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+<a href="https://medium.com/your-medium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="your-medium" height="30" width="40" /></a>
+</p>
