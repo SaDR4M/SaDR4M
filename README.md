@@ -16,28 +16,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>💻 What I Use</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,redis,linux,postgres" />
-</p>
-<h3>🚀 What I'm Learning</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,docker" />
-</p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40"/>
-
 ## 💻 My Stack
 
 <p align="left">
   <!-- From skillicons -->
-  <img src="https://skillicons.dev/icons?i=python,postgres,redis,linux,docker,go" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,redis,linux" />
 
   <!-- Custom: Django, Celery, Uvicorn, NGINX, Pytest -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
 </p>
+
+<h3>🚀 What I'm Learning</h3>
+<p align="left">
+  <!-- From skillicons -->
+  <img src="https://skillicons.dev/icons?i=docker,go" />
+</p>
+
 
 
 ![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaDR4M&show_icons=true&theme=radical)
