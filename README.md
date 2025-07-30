@@ -1,44 +1,44 @@
-##
-Backend-focused developer working with Python and Django since 2023. Always open to exciting Python projects. Currently exploring Go to level up my engineering stack.
+# Hi, I’m Sadra 👋
 
-<!--
-**SaDR4M/SaDR4M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **backend-focused developer** specializing in **Python** and **Django** since 2023. I enjoy building scalable and efficient backend systems and am always excited to collaborate on interesting Python projects. Currently, I'm diving into **Go** to broaden and level up my engineering toolkit.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 💻 My Stack
+## 💻 Tech Stack
 
 <p align="left">
-  <!-- From skillicons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <!-- Custom: Django, Celery, Uvicorn, NGINX, Pytest -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" alt="NGINX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" alt="Pytest" />
 </p>
 
-<h3>🚀 What I'm Learning</h3>
+---
+
+## 🚀 Currently Learning
+
 <p align="left">
-  <!-- From skillicons -->
-  <img src="https://skillicons.dev/icons?i=docker,go" />
+  <img src="https://skillicons.dev/icons?i=docker,go" alt="Docker and Go" />
 </p>
 
+---
 
+## 📈 GitHub Stats
 
 ![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaDR4M&show_icons=true&theme=radical)
 
+---
 
+## 📫 Get in Touch
 
+Feel free to reach out if you'd like to collaborate or just say hi!
+
+- Email: your.email@example.com  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+
+*Thanks for visiting my profile!* ✨
