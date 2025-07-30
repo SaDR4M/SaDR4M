@@ -5,7 +5,7 @@ Currently exploring **Go** to level up my engineering stack.
 
 ---
 
-## 📈 GitHub Stats
+![GitHub Stats](https://img.shields.io/badge/-GitHub%20Stats-0d1117?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
   <a href="https://github.com/SaDR4M">
@@ -21,7 +21,7 @@ Currently exploring **Go** to level up my engineering stack.
 
 ---
 
-## 💻 Tech Stack
+## ![Tech Stack](https://img.shields.io/badge/-Tech%20Stack-0d1117?style=for-the-badge&logo=devdotto&logoColor=white)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
@@ -35,7 +35,7 @@ Currently exploring **Go** to level up my engineering stack.
 
 ---
 
-## 🚀 Currently Learning
+## ![Currently Learning](https://img.shields.io/badge/-Currently%20Learning-0d1117?style=for-the-badge&logo=go&logoColor=white)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,go" alt="Docker and Go" />
@@ -43,7 +43,7 @@ Currently exploring **Go** to level up my engineering stack.
 
 ---
 
-## 📬 Contact Me
+## ![Contact Me](https://img.shields.io/badge/-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=white)
 
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
