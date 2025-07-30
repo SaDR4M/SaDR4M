@@ -1,5 +1,16 @@
-# Hi, I’m Sadra 👋
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+SaDR4M+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Feel+free+to+look+around!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://medium.com/@your-medium"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+</p>
+---
 Backend-focused developer working with **Python** and **Django** since 2023. Always open to exciting Python projects.  
 Currently exploring **Go** to level up my engineering stack.
 
@@ -39,16 +50,6 @@ Currently exploring **Go** to level up my engineering stack.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,go" alt="Docker and Go" />
-</p>
-
----
-
-## ![Contact Me](https://img.shields.io/badge/-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=white)
-
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://medium.com/@your-medium"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
 </p>
 
 ---
