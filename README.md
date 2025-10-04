@@ -18,14 +18,6 @@ Currently exploring **Go** to level up my engineering stack.
 
 ---
 
-![GitHub Stats](https://img.shields.io/badge/-GitHub%20Stats-0d1117?style=for-the-badge&logo=github&logoColor=white)
-
-<p align="center">
-  <a href="https://github.com/SaDR4M">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaDR4M&layout=compact&theme=dracula&size_weight=0&count_weight=1" alt="Top Languages" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/SaDR4M">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaDR4M&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
