@@ -49,4 +49,3 @@ Currently exploring **Go** to level up my engineering stack.
 
 ---
 
-✨ *Thanks for visiting my profile!* ✨
